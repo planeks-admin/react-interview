@@ -19,5 +19,5 @@
         "usernamehw.errorlens",
         "sonarsource.sonarlint-vscode"
   ],
-  "postCreateCommand": "yarn install && yarn run dev"
+  "postCreateCommand": "yarn install"
 }
